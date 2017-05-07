@@ -30,7 +30,7 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 * “Eating Science with Ghosts,” *Asimov’s*, October/November 2016. Novelette.
 * “[Kelp](http://www.takahe.org.nz/t87/olivia-cade/),” *takahē magazine*, August 2016. 4,000 words.
 
-## Paul Descombaz
+## Paul DesCombaz
 
 * “[Dos and Don’ts](http://flashfictiononline.com/main/article/dos-and-donts/),” *Flash Fiction Online*, March 2017. 1,000 words. **Clarion West Week 6.**
 
