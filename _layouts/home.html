@@ -2,3 +2,138 @@
 layout: default
 ---
 
+<div class="jumbotron text-center">
+<h2>Hello!</h2>
+
+<p>Team Arsenic is the Clarion West Class of 2016.</p>
+</div>
+
+<div class="container-fluid" id="who-we-are">
+<div class="row">
+<div class="col-xs-12">
+<h2 class="text-center">Who We Are</h2>
+
+<p class="lead">We’re eighteen writers from five countries: Australia, India, New Zealand, the United Kingdom, and the United States. In the summer of 2016, we attended the <a href="https://www.clarionwest.org/">Clarion West Writers Workshop</a>, a speculative fiction program in Seattle, Washington.</p>
+</div>
+</div>
+    <div class="row">
+{% for member in site.data.members %}
+    <div class="col-xs-6 col-sm-4">
+    <h3>{{ member.name }}</h3>
+    <h4>{{ member.role }}</h4>
+    <p class="icons">{% if member.site %}<a href="http://{{ member.site }}">{% include home.svg %}</a>{% endif %}{% if member.twitter %}<a href="http://twitter.com/{{ member.twitter }}">{% include twitter.svg %}</a>{% endif %}</p>
+    </div>
+{% endfor %}
+    </div>
+</div>
+
+<div class="jumbotron text-center">
+<h2>Why Arsenic?</h2>
+</div>
+
+<div class="container-fluid">
+<div class="row" id="why-arsenic">
+    <div class="col-sm-6">
+    <img src="/images/snake.jpg" class="img-responsive">
+    <p class="text-right small"><em>Art by S. Qiouyi Lu</em></p>
+    </div>
+    <div class="col-sm-6">
+    <p>We are the 33rd Clarion West class, and arsenic is the 33rd element on the periodic table. But there are more reasons why we chose arsenic as our symbol.</p>
+
+<p><em>From the email Cae sent out in Week 2:</em></p>
+
+<p>To me the most interesting thing about the alchemical idea of arsenic, is that it’s a pharmakon—literally translated, it means “healing poison”. It’s one of the most toxic substances in the world and has been used as a murder weapon pretty much since it was discovered, but it was also used in smaller doses to treat everything from ulcers to syphilis. And it’s not all crap, because arsenic oxide is still used to treat various kinds of cancer, even though arsenic in itself a strong carcinogen. So arsenic is in the liminal space between what destroys us, and what heals.</p>
+
+<p>Carl Jung, the greatest alchemist who was never really an alchemist at all, says pharmakons represent the Shadow. The darkest parts of ourselves that we hide, or repress, or are deeply ashamed of. The parts of ourselves that make us afraid. Or angry. But the beauty of the Shadow isn’t that it’s a monster to be fought and exiled. It’s something to be negotiated with carefully. Patiently. Across the course of a lifetime. Then, facing and integrating our own darkness becomes the first step on a path of transforming ourselves into something greater. The Shadow, like arsenic, is a healing poison.</p>
+
+<p>And so much of our work these first few weeks has been like that, hasn’t it? This careful negotiation of the parts of us that sting. That bleed. That snarl and hurt and harm. Using some of that personal pain and transforming it into something greater. Using the poison to heal. I know that I’ve transmutated myself so much in the last couple of weeks. In ways I didn’t think were possible.</p>
+
+<p>Personally? I’m proud to be on Team Arsenic.</p>
+
+<p>And I can’t wait to see what the next four weeks bring.</p>
+    </div>
+</div>
+</div>
+
+<div class="jumbotron text-center">
+<h2>About Our Experience</h2>
+
+<p>Want to learn more? Here are some write-ups about Clarion West from Team Arsenic.</p>
+</div>
+
+<div class="container-fluid" id="about-our-experience">
+<div class="row">
+<div class="col-sm-6 col-lg-4">
+<h3>The Seventh Week</h3>
+<p><em>by Neile Graham and Huw Evans</em></p>
+
+<p>This summer’s workshop was Clarion West’s 33rd consecutive class, and the students chose arsenic, the 33rd element of the periodic table, as a guiding idea. Given its combination of lethal and curative properties, arsenic served as a powerful image of the transformation that the class experienced during the workshop. Six of the students (and one of the workshop staff) now wear the alchemical symbol for arsenic, the class sigil, as a tattoo. It was chalked on the walkway to the house, and appears on their t-shirt with an entwined snake.</p>
+
+<p><a class="btn btn-primary" href="https://www.clarionwest.org/wp-content/uploads/2016/11/CW7thWeekFall2016WorkshopReport-1.pdf">Read more</a></p>
+</div>
+
+<div class="col-sm-6 col-lg-4">
+<h3>On How It Was</h3>
+<p><em>by Emma Osborne</em></p>
+
+<p>I’ve wanted to write about my Clarion West experience for weeks, but I kept putting it off just because I’m struggling with the idea of doing the experience justice. How could I possibly put to words how tremendous, how life-changing, how epic the entire experience was?</p>
+
+<p>I’ll try.</p>
+
+<p><a class="btn btn-primary" href="https://emmakosborne.com/2016/10/13/on-how-it-was-clarion-west-2016/">Read More</a></p>
+</div>
+
+<div class="visible-sm-block clearfix"></div>
+
+<div class="col-sm-6 col-lg-4">
+<h3>Deciding Whether to Attend Clarion West, for Disabled Writers</h3>
+<p><em>by E. N. Bartmess</em></p>
+
+<p>This summer I attended <a href="http://clarionwest.org/workshops/summer/">Clarion West</a>, a six-week residential writers workshop. I’m disabled, and before I went I worried about whether I would be able to handle it.</p>
+
+<p>This post is about disability-relevant aspects of Clarion West, and I’m writing it to help other disabled people figure out whether it’s realistic for them to attend.</p>
+
+<p><a class="btn btn-primary" href="http://elizabethbartmess.com/deciding-whether-to-attend-clarion-west-for-disabled-writers/">Read more</a></p>
+</div>
+
+<div class="visible-lg-block clearfix"></div>
+
+<div class="col-sm-6 col-lg-4">
+<h3>Report from Clarion West</h3>
+<p><em>by Taimur Ahmad</em></p>
+
+<p>Clarion West was without a doubt six of the best weeks of my life. Incredible classmates, home cooked food, Hugo and Nebula award-winning instructors, perfect weather, and plenty of time to socialize, write, and explore.</p>
+
+<p><a class="btn btn-primary" href="https://figments.princeton.edu/2016/12/16/report-from-clarion-west-taimur-ahmad-16-attends-seattles-legendary-speculative-fiction-workshop/">Read more</a></p>
+</div>
+
+<div class="visible-sm-block clearfix"></div>
+
+<div class="col-sm-6 col-lg-4">
+<h3>Clarion West 2016 Team Arsenic</h3>
+<p><em>by Gunnar Norskog</em></p>
+
+<p>Nearly six months ago, I embarked on the most fantastic journey of my life: Clarion West—the intensive speculative writing program in Seattle. After six weeks of living with my fellow students and our instructors, I came home and began writing a blog about it. My first attempt was a summary of the cool experiences—[…]—but…even after a dozen pages I’d only managed to cover the first couple weeks. And I’d only scratched the surface. So much had happened. How could I boil it down into a summary blog?</p>
+
+<p><a class="btn btn-primary" href="http://gunnarnorskog.com/blog/?p=102">Read more</a></p>
+</div>
+
+<div class="col-sm-6 col-lg-4">
+<h3>What I Learned at Clarion West: An Incomplete List</h3>
+<p><em>by S. Qiouyi Lu</em></p>
+
+<p>From Paul Park, I learned to stay in the present moment, to embed characters in a social context, to avoid emotional shorthand and instead use specific gestures. […] Most of all, we’re here to figure out how to make machines that spit out emotions, not to decide whether or not the machines are worth building.</p>
+
+<p><a class="btn btn-primary" href="http://s.qiouyi.lu/post/what-i-learned-at-clarion-west-an-incomplete-list-3623">Read more</a></p>
+</div>
+
+<div class="visible-lg-block clearfix"></div>
+</div>
+</div>
+</div>
+
+<div class="jumbotron text-center">
+<h2>Thanks for joining us.</h2>
+<p>We’re constantly writing and working on projects.</p>
+<p><a class="btn btn-primary btn-lg" href="/updates/">View recent updates</a></p>
+</div>

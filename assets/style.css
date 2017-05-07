@@ -1,0 +1,50 @@
+#logo {
+    height: 100%;
+}
+
+.icons svg {
+    fill: #303030;
+    margin-bottom: -.2em;
+    width: 1.4em;
+    height: 1.4em;
+}
+
+.icons a svg {
+    fill: #666;
+}
+
+.icons a:hover svg {
+    fill: #333;
+}
+
+.jumbotron {
+    margin: 0;
+}
+
+.jumbotron, #who-we-are, #about-our-experience {
+    background-color: #000;
+    color: #fff;
+}
+
+#who-we-are, #about-our-experience, #why-arsenic {
+    margin: 0;
+    padding: 50px;
+}
+
+#who-we-are {
+    background: url('/images/week-4.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#about-our-experience {
+    background: url('/images/armtree.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+#who-we-are .icons a svg {
+    fill: #fff;
+}
+
+#who-we-are .icons a:hover svg {
+    fill: #ccc;
+}
