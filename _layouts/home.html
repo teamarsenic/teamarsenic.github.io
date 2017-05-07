@@ -9,6 +9,7 @@ layout: default
 </div>
 
 <div class="container-fluid" id="who-we-are">
+<div class="container">
 <div class="row">
 <div class="col-xs-12">
 <h2 class="text-center">Who We Are</h2>
@@ -16,29 +17,33 @@ layout: default
 <p class="lead">We’re eighteen writers from five countries: Australia, India, New Zealand, the United Kingdom, and the United States. In the summer of 2016, we attended the <a href="https://www.clarionwest.org/">Clarion West Writers Workshop</a>, a speculative fiction program in Seattle, Washington.</p>
 </div>
 </div>
-    <div class="row">
+    <div class="row text-center" id="members">
 {% for member in site.data.members %}
     <div class="col-xs-6 col-sm-4">
     <h3>{{ member.name }}</h3>
-    <h4>{{ member.role }}</h4>
-    <p class="icons">{% if member.site %}<a href="http://{{ member.site }}">{% include home.svg %}</a>{% endif %}{% if member.twitter %}<a href="http://twitter.com/{{ member.twitter }}">{% include twitter.svg %}</a>{% endif %}</p>
+    <p>{{ member.role }}</p>
+    <p class="icons">{% if member.site %}<span class="icons-home"><a href="http://{{ member.site }}">{% include home.svg %}</a></span>{% endif %}{% if member.twitter %}<span class="icons-twitter"><a href="http://twitter.com/{{ member.twitter }}">{% include twitter.svg %}</a></span>{% endif %}</p>
     </div>
 {% endfor %}
     </div>
+</div>
 </div>
 
 <div class="jumbotron text-center">
 <h2>Why Arsenic?</h2>
 </div>
 
-<div class="container-fluid">
-<div class="row" id="why-arsenic">
+<div class="container-fluid" id="why-arsenic">
+<div class="container">
+<div class="row">
     <div class="col-sm-6">
     <img src="/images/snake.jpg" class="img-responsive">
     <p class="text-right small"><em>Art by S. Qiouyi Lu</em></p>
     </div>
     <div class="col-sm-6">
-    <p>We are the 33rd Clarion West class, and arsenic is the 33rd element on the periodic table. But there are more reasons why we chose arsenic as our symbol.</p>
+    <p class="lead">We are the 33rd Clarion West class, and arsenic is the 33rd element on the periodic table.</p>
+    
+    <p>But there are more reasons why we chose arsenic as our symbol.</p>
 
 <p><em>From the email Cae sent out in Week 2:</em></p>
 
@@ -54,6 +59,7 @@ layout: default
     </div>
 </div>
 </div>
+</div>
 
 <div class="jumbotron text-center">
 <h2>About Our Experience</h2>
@@ -62,6 +68,7 @@ layout: default
 </div>
 
 <div class="container-fluid" id="about-our-experience">
+<div class="container">
 <div class="row">
 <div class="col-sm-6 col-lg-4">
 <h3>The Seventh Week</h3>
@@ -128,6 +135,7 @@ layout: default
 </div>
 
 <div class="visible-lg-block clearfix"></div>
+</div>
 </div>
 </div>
 </div>

@@ -1,7 +1,29 @@
+<footer class="footer">
+    <div class="container text-center">
+        <p>&copy; 2017 Team Arsenic.</p>
+    </div>
+</footer>
+
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Latest compiled and minified JavaScript -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- Latest compiled and minified imagesLoaded JavaScript -->
+<script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
+    <!-- Latest compiled and minified Masonry JavaScript -->
+<script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
+<script>
+var $grid = $('.grid').imagesLoaded( function() {
+  // init Masonry after all images have loaded
+  $grid.masonry({
+      // set itemSelector so .grid-sizer is not used in layout
+      itemSelector: '.grid-item',
+      // use element for option
+      columnWidth: '.grid-sizer',
+      percentPosition: true
+  });
+});
+</script>
   </body>
 </html>

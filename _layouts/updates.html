@@ -2,13 +2,14 @@
 layout: default
 ---
 
+<div class="container">
 <div class="row">
-{% assign post_count = 0 %}
-{% for post in site.posts %}
-{% assign post_count = post_count | plus: 1 %}
-  <div class="col-sm-6 col-md-4">
+<div class="grid">
+<div class="grid-sizer">
+{% for post in paginator.posts %}
+  <div class="grid-item">
     <div class="thumbnail">
-      <img src="/images/covers/{{ post.img }}" alt="{{ post.img_alt }}" class="img-responsive">
+      {% if post.img and post.img_alt %}<img src="/images/covers/{{ post.img }}" alt="{{ post.img_alt }}" class="img-responsive">{% endif %}
       <div class="caption">
         <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
         <p>{{ post.excerpt }}</p>
@@ -16,8 +17,33 @@ layout: default
       </div>
     </div>
   </div>
-{% assign clearfix_sm = post_count | modulo: 2 %}
-{% assign clearfix_md = post_count | modulo: 3 %}
-{% if clearfix_sm == 0 %}<div class="visible-sm-block clearfix"></div>{% elsif clearfix_md == 0 %}<div class="visible-md-block clearfix"></div>{% else %}{% endif %}
 {% endfor %}
+</div>
+</div>
+
+<!-- Pagination links -->
+{% if paginator.total_pages > 1 %}
+<nav aria-label="Page Navigation" class="text-right">
+  <ul class="pagination">
+  {% if paginator.previous_page %}
+    <li><a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Previous"><span aria-hidden="true">&laquo; </span>Prev</a></li>
+  {% endif %}
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+    <li class="active"><a href="#">{{ page }}</a></li>
+    {% elsif page == 1 %}
+    <li><a href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a></li>
+    {% else %}
+    <li><a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a></li>
+    {% endif %}
+    {% endfor %}
+    {% if paginator.next_page %}
+    <li>
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" aria-label="Next">Next<span aria-hidden="true"> &raquo;</span></a>
+    </li>
+    {% endif %}
+  </ul>
+</nav>
+{% endif %}
+</div>
 </div>

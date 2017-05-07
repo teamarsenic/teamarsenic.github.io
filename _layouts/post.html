@@ -1,3 +1,25 @@
 ---
 layout: default
 ---
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-9">
+        <h2 class="text-center">{{ page.title }}</h2>
+        <p class="text-center">{{ page.date | date: "%B %e, %Y" }} | {% for category in page.categories %}{{ category | capitalize }}{% endfor %}</p>
+        {% if page.img and page.img_alt %}<img src="/images/covers/{{ page.img }}" alt="{{ page.img_alt }}" class="img-responsive center-block">{% endif %}
+        <p>{{ content }}</p>
+        <nav class="pager" aria-label="Page Navigation">
+  <ul class="pager">
+    <li class="previous {% if page.previous.url == nil %}disabled{% endif %}"><a href="{{ page.previous.url }}"><span aria-hidden="true">&larr;</span> Previous</a></li>
+    <li class="next {% if page.next.url == nil %}disabled{% endif %}"><a href="{{ page.next.url }}">Next <span aria-hidden="true">&rarr;</span></a></li>
+    </ul>
+    <p class="pull-left text-left">{% if page.previous %}{{ page.previous.title }}{% endif %}</p>
+    <p class="pull-right text-right">{% if page.next %}{{ page.next.title }}{% endif %}</p>
+</nav>
+</div>
+        <div class="col-md-3">
+        {% include sidebar.html %}
+        </div>
+    </div>
+</div>

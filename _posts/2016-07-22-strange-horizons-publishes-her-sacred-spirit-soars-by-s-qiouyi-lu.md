@@ -3,6 +3,7 @@ layout: post
 title: "Strange Horizons Publishes “Her Sacred Spirit Soars” by S. Qiouyi Lu"
 img: strange-horizons-07-18-2016.png
 img_alt: Strange Horizons 7/18/2016 Cover
+categories: publications
 excerpt: Bodies pressed together, we soar over the mountains of Guilin and come to a stop on a verdant peak.
 ---
 
