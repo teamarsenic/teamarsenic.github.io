@@ -1,6 +1,6 @@
 ---
 title: Updates
-layout: default
+layout: updates
 permalink: /updates/
 ---
 
