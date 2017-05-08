@@ -131,7 +131,7 @@ body {
         margin: 0 auto;    
     }
 
-    #who-we-are, #about-our-experience, #why-arsenic, .jumbotron {
+    #who-we-are .container, #about-our-experience .container, #why-arsenic .container, .jumbotron {
         padding: 50px;
     }
 }
