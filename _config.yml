@@ -24,6 +24,7 @@ lang: en-US
 paginate: 10
 paginate_path: "/updates/:num/"
 permalink: "/:year/:month/:day/:title/"
+google_analytics: UA-98651860-1
 
 # Build settings
 markdown: kramdown
