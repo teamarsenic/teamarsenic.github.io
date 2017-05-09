@@ -80,6 +80,10 @@ body {
     padding: 10px;
 }
 
+#who-we-are, #about-our-experience, #why-arsenic {
+    margin-bottom: 20px;
+}
+
 #who-we-are {
     background: url('/images/week-4.jpg') no-repeat center center;
     background-size: cover;

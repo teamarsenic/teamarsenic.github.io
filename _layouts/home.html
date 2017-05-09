@@ -18,12 +18,17 @@ layout: default
 </div>
 </div>
     <div class="row text-center" id="members">
+{% assign member_count = 0 %}
 {% for member in site.data.members %}
+{% assign member_count = member_count | plus: 1 %}
     <div class="col-xs-6 col-sm-4">
     <h3>{{ member.name }}</h3>
     <p>{{ member.role }}</p>
     <p class="icons">{% if member.site %}<span class="icons-home"><a href="http://{{ member.site }}">{% include home.svg %}</a></span>{% endif %}{% if member.twitter %}<span class="icons-twitter"><a href="http://twitter.com/{{ member.twitter }}">{% include twitter.svg %}</a></span>{% endif %}</p>
     </div>
+{% assign clearfix_xs = member_count | modulo: 2 %}
+{% assign clearfix_sm = member_count | modulo: 3 %}
+{% if clearfix_xs == 0 and clearfix_sm == 0 %}<div class="visible-xs-block visible-sm-block clearfix"></div>{% elsif clearfix_xs == 0 %}<div class="visible-xs-block clearfix"></div>{% elsif clearfix_sm == 0 %}<div class="visible-sm-block clearfix"></div>{% else %}{% endif %}
 {% endfor %}
     </div>
 </div>

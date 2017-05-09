@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/sqiouyilu
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://teamarsenic.com
+  * I am sqiouyilu (https://keybase.io/sqiouyilu) on keybase.
+  * I have a public key with fingerprint 0649 B6AB 1545 E04F DAC3  CA18 A0AC C6CF 3402 E15F
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "010192f4118ad1405753271a9c1bc7a16a9af92c10cd5d93510ba24dee479de7aa470a",
+            "fingerprint": "0649b6ab1545e04fdac3ca18a0acc6cf3402e15f",
+            "host": "keybase.io",
+            "key_id": "a0acc6cf3402e15f",
+            "kid": "010192f4118ad1405753271a9c1bc7a16a9af92c10cd5d93510ba24dee479de7aa470a",
+            "uid": "35d1eed33167f2fe5b8a473f2fe9c119",
+            "username": "sqiouyilu"
+        },
+        "revoke": {
+            "sig_ids": [
+                "e92dc4822c6f5e02340f0d0627550792256f592b9dafbec77ac30afe34403c4e0f"
+            ]
+        },
+        "service": {
+            "hostname": "teamarsenic.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1494307697,
+    "expire_in": 157680000,
+    "prev": "b3e54552bc6274183df103d5633e9348d96c6360010663ffd86a577649ec6017",
+    "seqno": 13,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.70
+Comment: https://keybase.io/crypto
+
+yMJ2AnicrVJdaB1FFL4x/Uuo0khjQdIiIxiUJM7s7MzsXFRaaqztgz/UFGobLrPz
+czPe5O7N7t40MfbBVosIlRT/SGwEC0Vj2yDaFkvRtHKVQkiroX2x0iqhSB6KgqIV
+Y3U21DcfnZeZOfOd73zznVO7vT7XWNd5ZUXr9Y95rm767O/V3Pamrf3DIIzUEMgP
+g5Je3HSv0klaKFkF8gAiiLhnfIQCoZAPCSPYY0hwiULJBKKCC8M9iaBURHFMEAyF
+5yutfcaVZkL4DArQBowtF3VciW05zWipz0MqQkR8oqFvlJBYClcDCimpNNiHnkbE
+uMSeKMkynLhQJLrDRi7mLoVFef+B/591VxfpMFFIa4Uxosx4RpMwcACcHR0j4hkw
+0XFZ9GmHTvptVB2yvVWwuw3EeiAq6czYxBad6gTkdwDNPSX9wPMkNc4Az+k3UEHq
+MUIg455HXJx7IVfChFoy5vyBwmjs+xBLX0MDuh23Kzlg5SJ5ZtOt8qkWfSJOdNnK
+Dhn1OW2VOEojGfW6x540reQzXelQJQPv0mHhFk0htGXl2uQSBnSc2KgM8sghZWoz
+XuRzH0NGOWsDerBiY12wGYIwGkC3sjJ6wFGGWLu2Ei+U7j8+CrAyCGJFKMaaYz9Q
+nEqKKXQ9ohQbowIqCGNuJLSkEDGQfay/HDlu7HSKYmapLZZFWo012P3FmZ1LcnWN
+uWVLb8vmN9fYsOrfqT5tlt988MNPxr9WT9/78JfbJ5rT4TsrO46u61s/fei5luat
+T75z+eKpuZf3bfzuxKHNlzZ9s4ZMjLYHf+nol+4Lm9T+B1p+ne7a3FD9eWLJV+3v
+Ns/Pvt3yWbjinheWN55/at33TZ+vXLh48+yasY8eWXv/Rvvp3LnH7LLne166tv/N
+k6vbusOGG4UZu7dpz8j4gW21VXZ87dQbezfY+oXWZ/b0/zk3efzgD/NDwbXfBk+9
+Mts9dbg0B+ZfLD40NXvmyt/tk/ddnvlA/tT1/tWF89eX1q6O7WP1pS1juddvrD7S
++lbn43fvWrntvdFnD7/W+cSBS6+OfPtH17FirWPkuJk8eMyeG/3x0cE71m+5qzaz
+YeLC+D8j810e
+=qW1P
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sqiouyilu
+
+==================================================================
