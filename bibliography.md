@@ -21,6 +21,7 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Octavia Cade
 
+* “The Atomic Hallows and the Body of Science,” *Shimmer*, forthcoming. 6,200 words. **Clarion West Week 5.**
 * “The Temporary Suicides of Goldfish,” *Kaleidotrope*, forthcoming. 4,000 words.
 * “The Ouroboros Bakery,” *Kaleidotrope*, forthcoming. 4,100 words.
 * “The War on Space and Time,” *Giganotosaurus*, forthcoming. 6,800 words.
