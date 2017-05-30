@@ -6,7 +6,7 @@ permalink: /bibliography/
 
 This bibliography tracks the stories published by the Clarion West Class of 2016 after attending the workshop. For more comprehensive bibliographies, please visit the writers’ websites.
 
-*Last updated on May 6, 2017*
+*Last updated on May 29, 2017*
 
 ## Taimur Ahmad
 
