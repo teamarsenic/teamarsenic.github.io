@@ -6,7 +6,7 @@ permalink: /bibliography/
 
 This bibliography tracks the stories published by the Clarion West Class of 2016 after attending the workshop. For more comprehensive bibliographies, please visit the writers’ websites.
 
-*Last updated on May 29, 2017*
+*Last updated on August 30, 2017*
 
 ## Taimur Ahmad
 
@@ -21,11 +21,14 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Octavia Cade
 
-* “The Stone Weta,” *Clarkesworld*, forthcoming. 4,400 words.
+* “Dinornis,” *Pacific Monsters*, Fox Spirit Books, forthcoming. Sequential art.
+* “The Better Part of Drowning,” *The Dark*, forthcoming. 5,200 words.
+* “The Backward Lens of Compromise,” *Asimov’s*, forthcoming. 11,000 words.
 * “The Atomic Hallows and the Body of Science,” *Shimmer*, forthcoming. 6,200 words. **Clarion West Week 5.**
 * “The Temporary Suicides of Goldfish,” *Kaleidotrope*, forthcoming. 4,000 words.
 * “The Ouroboros Bakery,” *Kaleidotrope*, forthcoming. 4,100 words.
-* “The War on Space and Time,” *Giganotosaurus*, forthcoming. 6,800 words.
+* “[The Stone Weta](http://clarkesworldmagazine.com/cade_08_17/),” *Clarkesworld*, August 2017. 4,400 words.
+* “[The War on Space and Time](http://giganotosaurus.org/2017/07/01/the-war-on-space-and-time/),” *Giganotosaurus*, July 2017. 6,800 words.
 * “Little Beast,” [*Respectable Horror*](http://www.foxspirit.co.uk/out-now-respectable-horror/), Fox Spirit Books, March 2017. 4,400 words.
 * “[Crown of Thorns](http://clarkesworldmagazine.com/cade_03_17/),” *Clarkesworld*, March 2017. 4,100 words.
 * “The Meiosis of Cells and Exile,” *Asimov’s*, January/February 2017. Novelette.
@@ -58,8 +61,9 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## S. Qiouyi Lu
 
-* “What Could Be,” *Daily Science Fiction*, forthcoming. 150 words.
-* “From Something Emerging,” Strange California, forthcoming, Flagstaff Books. 5,000 words.
+* “Mother Tongues,” *Asimov’s*, forthcoming. 3,700 words.
+* “From Something Emerging,” *Strange California*, forthcoming, Flagstaff Books. 5,000 words.
+* “[What Could Be](http://dailysciencefiction.com/fantasy/fantasy/s-qiouyi-lu/what-could-be),” *Daily Science Fiction*, August 24, 2017. 150 words.
 * “[A Complex Filament of Light](http://www.anathemamag.com/a-complex-filament-of-light),” *Anathema*, April 2017. 3,500 words.
 * “[Vector](http://gamut.online/node/158),” *Gamut*, April 2017. 1,000 words. **Clarion West Week 6.**
 * “[An Abundance of Fish](http://uncannymagazine.com/article/an-abundance-of-fish/),” *Uncanny*, March/April 2017. 800 words.
@@ -84,5 +88,5 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Cadwell Turnbull
 
-* “Other Worlds and This One,” *Asimov’s*, forthcoming. 8,200 words.
+* “Other Worlds and This One,” *Asimov’s*, July/August 2017. 8,200 words.
 * “[Loneliness Is in Your Blood](http://www.nightmare-magazine.com/fiction/loneliness-is-in-your-blood/),” *Nightmare* 52, January 2017. 2,000 words. **Clarion West Week 3.**
