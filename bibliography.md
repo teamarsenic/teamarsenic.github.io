@@ -43,7 +43,8 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Lora Gray
 
-* “Water Like Air,” *Flash Fiction Online*, forthcoming. 1,000 words. **Clarion West Week 1.**
+* “These Bones Aside,” *The Dark*, forthcoming. 3,900 words. **Clarion West Week 3.**
+* “[Water Like Air](http://flashfictiononline.com/main/article/water-like-air/),” *Flash Fiction Online*, June 2017. 1,000 words. **Clarion West Week 1.**
 * “Seven Swans a-Swimming: The Phoenix and the Moon,” *Twelve Days*, December 2016, The Patchwork Raven. 1,750 words.
 * “[Shadow Boy](https://www.shimmerzine.com/shadow-boy/),” *Shimmer* 33, September 2016. 3,800 words.
 * “[Nuclear Daughter](http://flashfictiononline.com/main/article/nuclear-daughter/),” *Flash Fiction Online*, July 2016. 950 words.
