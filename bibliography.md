@@ -12,25 +12,25 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Betsy Aoki
 
-* “And When We Die They Will Consume Us,” *Sharp & Sugar Tooth: Women Up To No Good*, forthcoming, Upper Rubber Boot.
+* “And When We Die They Will Consume Us,” *Sharp & Sugar Tooth: Women Up To No Good*, forthcoming, Upper Rubber Boot. 4,900 words.
 
 ## E. N. Bartmess
 
-## T. Jane Berry
+## TJ Berry
 
 * *Space Unicorn Blues*, Angry Robot Books, forthcoming. Novel.
-* “A Sermon from the First Church of Villainy,” *Toasted Cake*, forthcoming.
+* “A Sermon from the First Church of Villainy,” *Toasted Cake*, forthcoming. 800 words.
 * “[Sinshine](http://www.kaleidotrope.net/archives/autumn-2017/sinshine-by-tj-berry/),” *Kaleidotrope*, October 2017. 3,600 words.
 * “[Granite Requires](http://pseudopod.org/2017/09/08/pseudopod-559-granite-requires/),” *Pseudopod*, September 2017. 6,100 words. **Clarion West Week 2.**
 * “[How to Survive in Room 105](http://podcastle.org/2016/09/09/podcastle-miniature-90-how-to-survive-in-room-105/),” *PodCastle*, September 2016. 1,500 words.
 
 ## Octavia Cade
 
-* “Gone to Earth,” *Shimmer*, forthcoming.
-* “Nation Building and Baptism,” *Capricious*, forthcoming.
-* “Sugar Ricochets to Other Forms,” *Mother of Invention*, Twelfth Planet Press, forthcoming.
-* “The Huntsman’s Sequence,” *GlitterShip*, forthcoming.
-* “We Feed the Bears of Fire and Ice,” *Strange Horizons*, forthcoming.
+* “Gone to Earth,” *Shimmer*, forthcoming. 3,800 words.
+* “Nation Building and Baptism,” *Capricious*, forthcoming. 4,100 words.
+* “Sugar Ricochets to Other Forms,” *Mother of Invention*, Twelfth Planet Press, forthcoming. 3,300 words.
+* “The Huntsman’s Sequence,” *GlitterShip*, forthcoming. 3,000 words.
+* “We Feed the Bears of Fire and Ice,” *Strange Horizons*, forthcoming. 3,300 words.
 * “The Backward Lens of Compromise,” *Asimov’s*, forthcoming. 11,000 words.
 * “[The Temporary Suicides of Goldfish](http://www.kaleidotrope.net/winter-2018/the-temporary-suicides-of-goldfish-by-octavia-cade/),” *Kaleidotrope*, January 2018. 4,000 words.
 * “Dinornis,” *Pacific Monsters*, Fox Spirit Books, November 2017. Sequential art.
@@ -43,7 +43,7 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 * “[Crown of Thorns](http://clarkesworldmagazine.com/cade_03_17/),” *Clarkesworld*, March 2017. 4,100 words.
 * “The Meiosis of Cells and Exile,” *Asimov’s*, January/February 2017. Novelette.
 * “Eating Science with Ghosts,” *Asimov’s*, October/November 2016. Novelette.
-* *The Convergence of Fairytales*, *The Book Smugglers*, October 2016. Novella.
+* *The Convergence of Fairytales*, *The Book Smugglers*, October 2016. 17,500 words.
 * “[Kelp](http://www.takahe.org.nz/t87/olivia-cade/),” *takahē magazine*, August 2016. 4,000 words.
 
 ## Paul DesCombaz
@@ -55,10 +55,10 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 ## Lora Gray
 
 * “[The Imitation Sea](https://www.shimmerzine.com/the-imitation-sea/),” *Shimmer*, April 2018. 3,200 words.
-* “Necessary Threads,” *Fell Beasts and Fair*, Spring Song Press, March 2018.
+* “Necessary Threads,” *Fell Beasts and Fair*, Spring Song Press, March 2018. 1,300 words.
 * “[These Bones Aside](http://thedarkmagazine.com/these-bones-aside/),” *The Dark*, September 2017. 3,900 words. **Clarion West Week 3.**
 * “[Water Like Air](http://flashfictiononline.com/main/article/water-like-air/),” *Flash Fiction Online*, June 2017. 1,000 words. **Clarion West Week 1.**
-* “Flight,” *Norwescon 40:  Over the Hills and Far Away*, April 2017.
+* “Flight,” *Norwescon 40:  Over the Hills and Far Away*, April 2017. 1,500 words.
 * “Seven Swans a-Swimming: The Phoenix and the Moon,” *Twelve Days*, December 2016, The Patchwork Raven. 1,750 words.
 * “[Shadow Boy](https://www.shimmerzine.com/shadow-boy/),” *Shimmer* 33, September 2016. 3,800 words.
 * “[Nuclear Daughter](http://flashfictiononline.com/main/article/nuclear-daughter/),” *Flash Fiction Online*, July 2016. 950 words.
@@ -71,11 +71,11 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Jon Lasser
 
-* “The Chex Gambit,” *Toasted Cake*, forthcoming.
+* “The Chex Gambit,” *Toasted Cake*, forthcoming. 1,000 words.
 * “Perfect Little Boy,” *Galaxy’s Edge*, March 2018. 5,600 words.
 * “[The Leviathans Have Fled the Sea](http://www.diabolicalplots.com/dp-fiction-34b-the-leviathans-have-fled-the-sea-by-jon-lasser/),” *Diabolical Plots*, forthcoming December 2017. 2,700 words.
-* “[Fly Swatter](https://www.darkfusemagazine.com/2017/03/fly-swatter/),” *DarkFuse*, March 2017. Short story.
-* “Real Selfies,” *Untethered: A Magic iPhone Anthology*, October 2016, Cantina Publishing.
+* “[Fly Swatter](https://www.darkfusemagazine.com/2017/03/fly-swatter/),” *DarkFuse*, March 2017. 1,400 words.
+* “Real Selfies,” *Untethered: A Magic iPhone Anthology*, October 2016, Cantina Publishing. 2,900 words.
 
 ## S. Qiouyi Lu
 
