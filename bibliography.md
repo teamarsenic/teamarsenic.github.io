@@ -94,6 +94,8 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Emma Osborne
 
+* “Unstrap Your Feet,” *GlitterShip*, forthcoming. 2,000 words.
+* “One and Two,” *Kaleidotrope*, forthcoming. 2,400 words.  
 * “Don’t Pack Hope,” *Nightmare*, April 2018. 1,800 words.
 
 ## Shiv Ramdas
