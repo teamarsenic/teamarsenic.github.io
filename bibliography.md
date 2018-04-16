@@ -6,7 +6,7 @@ permalink: /bibliography/
 
 This bibliography tracks the stories published by the Clarion West Class of 2016 after attending the workshop. For more comprehensive bibliographies, please visit the writers’ websites.
 
-*Last updated on April 15, 2018*
+*Last updated on April 16, 2018*
 
 ## Taimur Ahmad
 
@@ -48,6 +48,7 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Paul DesCombaz
 
+* “Mama’s Girl,” *Lovecraft eZine*, forthcoming. 3,400 words. **Clarion West Week 2.**
 * “[Dos and Don’ts](http://flashfictiononline.com/main/article/dos-and-donts/),” *Flash Fiction Online*, March 2017. 1,000 words. **Clarion West Week 6.**
 
 ## Alex Filipowicz 
