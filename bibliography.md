@@ -26,12 +26,12 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Octavia Cade
 
-* “Gone to Earth,” *Shimmer*, forthcoming. 3,800 words.
 * “Nation Building and Baptism,” *Capricious*, forthcoming. 4,100 words.
 * “Sugar Ricochets to Other Forms,” *Mother of Invention*, Twelfth Planet Press, forthcoming. 3,300 words.
-* “The Huntsman’s Sequence,” *GlitterShip*, forthcoming. 3,000 words.
-* “We Feed the Bears of Fire and Ice,” *Strange Horizons*, forthcoming. 3,300 words.
 * “The Backward Lens of Compromise,” *Asimov’s*, forthcoming. 11,000 words.
+* “[The Huntsman’s Sequence](http://www.glittership.com/2018/05/12/episode-55-the-huntsmans-sequence-by-octavia-cade/),” *GlitterShip*, May 2018. 3,000 words.
+* “[We Feed the Bears of Fire and Ice](http://strangehorizons.com/fiction/we-feed-the-bears-of-fire-and-ice/),” *Strange Horizons*, May 2018. 3,300 words.
+* “[Gone to Earth](https://www.shimmerzine.com/gone-to-earth/),” *Shimmer*, May 2018. 3,800 words.
 * “[The Temporary Suicides of Goldfish](http://www.kaleidotrope.net/winter-2018/the-temporary-suicides-of-goldfish-by-octavia-cade/),” *Kaleidotrope*, January 2018. 4,000 words.
 * “Dinornis,” *Pacific Monsters*, Fox Spirit Books, November 2017. Sequential art.
 * “[The Atomic Hallows and the Body of Science](https://www.shimmerzine.com/atomic-hallows/),” *Shimmer*, November 2017. 6,200 words. **Clarion West Week 5.**
@@ -97,9 +97,11 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 * “Unstrap Your Feet,” *GlitterShip*, forthcoming. 2,000 words.
 * “One and Two,” *Kaleidotrope*, forthcoming. 2,400 words.  
-* “Don’t Pack Hope,” *Nightmare*, April 2018. 1,800 words.
+* “[Don’t Pack Hope](http://www.nightmare-magazine.com/fiction/dont-pack-hope/),” *Nightmare*, April 2018. 1,800 words.
 
 ## Shiv Ramdas
+
+* “[Balloon Man](http://giganotosaurus.org/2018/06/01/balloon-man/),” *Giganotosaurus*, June 2018. 10,000 words. **Clarion West Week 4.**
 
 ## Mitchell Shanklin
 
@@ -111,6 +113,7 @@ This bibliography tracks the stories published by the Clarion West Class of 2016
 
 ## Cadwell Turnbull
 
+* “The Rains Come Back,” *Asimov's*, May/June 2018. Short story.
 * “[A Third of the Stars in Heaven](http://www.lightspeedmagazine.com/fiction/third-stars-heaven/),” *Lightspeed*, December 2017. 5,000 words.
 * “Other Worlds and This One,” *Asimov’s*, July/August 2017. 8,200 words.
 * “[Loneliness Is in Your Blood](http://www.nightmare-magazine.com/fiction/loneliness-is-in-your-blood/),” *Nightmare* 52, January 2017. 2,000 words. **Clarion West Week 3.**
